@@ -1,0 +1,39 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    text-align: center;
+    padding : 1rem;
+    background-color:#145f94;
+    color: white;
+    font-weight: 600;
+}
+.main-div {
+    margin: 1rem 7rem;
+    overflow: auto;
+}
+.left-div{
+    float: left;
+    width:60%
+}
+.common h4{
+    width: 100%;
+    padding: 0.5rem 1rem;
+    background-color: #145f94;
+    color: white;
+}
+.common {
+    margin: 1rem;
+    border: #145f94;
+    border-style: solid;
+    border-width: thin;
+}
+.right-div{
+    overflow: auto;
+}
+.common p{
+    margin: 1rem 1rem;
+}
